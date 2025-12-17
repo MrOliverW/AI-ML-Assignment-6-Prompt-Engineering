@@ -1,5 +1,6 @@
 AI-ML-Assignment-6-Prompt-Engineering
 Oliver Warlick
+YouTube Video: https://youtu.be/x4Enz_zDtuA
 
 # 📊 Prompt Engineering Experiment: Structured Data Extraction
 
